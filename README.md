@@ -1,2 +1,2 @@
-# Regression
+# Linear Regression
 Regression analysis
