@@ -1,6 +1,4 @@
 #Name Gus Kalivas
-#email wkalivas@wisc.edu
-#program P8
 
 import csv
 import math
